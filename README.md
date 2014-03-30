@@ -10,7 +10,7 @@ Supported Platforms:
 Usage
 -----
 
-Install Blender 2.68a by default:
+Install Blender 2.70 by default:
 
 ```
 class {'blender': }

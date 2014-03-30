@@ -13,8 +13,8 @@
 class blender::params {
 
   $package = 'blender'
-  $version = '2.68'
-  $build = 'a'
+  $version = '2.70'
+  $build = ''
   $mirror = 'http://download.blender.org'
 
 }
